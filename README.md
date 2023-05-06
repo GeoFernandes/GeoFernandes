@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Geovanna Fernandes
 
-<img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="/https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Geo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@
 ##
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeoFernandes&show_icons=true&theme=tokyonight&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeoFernandes&show_icons=true&theme=tokyonight">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoFernandes&layout=compact&theme=tokyonight">
 </div>
