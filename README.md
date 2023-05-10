@@ -1,25 +1,39 @@
-### Olá! Eu sou a Geovanna Fernandes
+<h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
 
-<img align="right" alt="Geo-pic" height="150" style="border-radius:50px;" src="/https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Geo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div dsplay="inline-block">
+    <h4>
+      📓 Cursando Análise e Desenvolvimento de Sistemas <br>
+  </h4>
+  <a href="https://www.linkedin.com/in/geovanna-fernandes-dev/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 </div>
+  
+</br>
+</br>
+
+## Olá, Devs!!
+Tenho 19 anos, moro em São Paulo/SP e sou apaixonada por programação e games! Iniciei minha aventura na área em 2021, mesmo criando bugs e passando raiva, mais eu aprendo e meu amor por tudo isso aumenta!  ❤
+
+
+<p align="center">
+  <img src="https://tenor.com/bzqCi.gif" width="200">
+</p>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
 ##
-
-<div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-##
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeoFernandes&show_icons=true&theme=tokyonight">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoFernandes&layout=compact&theme=tokyonight">
 </div>
+
+
  
