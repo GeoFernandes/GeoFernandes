@@ -15,7 +15,7 @@
 </br>
 
 ## Olá, Devs!!
-Sou a Geovanna, tenho 19 anos, moro em São Paulo/SP e sou apaixonada por programação e games! Iniciei minha aventura estudando em 2021 e entrando na faculdade de Ánalise e Desenvolvimento de Sistemas em 2022. Atualmente estou estagiando na área de desenvolvimento na F1rst Digital Innovation Services, utilizando Java e Angular como principais ferramentas no dia a dia.
+Sou a Geovanna, tenho 20 anos, moro em São Paulo/SP e sou apaixonada por programação e games! Iniciei minha aventura estudando em 2021 e entrando na faculdade de Ánalise e Desenvolvimento de Sistemas em 2022. Atualmente estou estagiando na área de desenvolvimento na F1rst Digital Innovation Services, utilizando Java e Angular como principais ferramentas no dia a dia.
 
 ### 🖥️ Linguagens e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT"/></code>
